@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header img {
+    border: 4px solid #fff;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+a.btn-primary {
+    transition: all 0.3s;
+}
+
+a.btn-primary:hover {
+    transform: scale(1.05);
+}
